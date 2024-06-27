@@ -1,5 +1,5 @@
 adding some details
 big four companys are kpmg,ey,dellitoe,pwc
 mnc companys are tcs,l&t, wipro,hcl
-2&3 level companys are synergy,contarix,dell
+
 4 level companys are paralok,infocomm,skylabs
